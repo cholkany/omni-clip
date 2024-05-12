@@ -32,7 +32,7 @@ Demo Page - https://aegir-assembly.github.io/omni-clip/
 
 ## Contributing
 Contributing is vital part of this project, so feel free to help and build this awesome video editor together, simply choose the issue you feel like working on and if you are done make a pull request.
-to ease communiaction, its best to join my discord server: [https://discord.gg/g64sMagg](https://discord.gg/Nr8t9s5wSM)
+to ease communiaction, its best to join my discord server: https://discord.gg/Nr8t9s5wSM
 #### Development:
 To start contirbuting you need to do those steps first:
 1. Clone the repository: `git clone git@github.com:aegir-assembly/omni-clip.git` or fork it
